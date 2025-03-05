@@ -1,4 +1,4 @@
-## Hi, I'm Kami-note and this is my profilee 👋
+## Hi, I'm Kami-note and this is my profile 👋
 
 ## Work
  * 🔭 I’m currently working on
