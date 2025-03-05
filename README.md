@@ -8,7 +8,7 @@
  * 🌱 I’m currently learning
 Exploring frameworks and courses like **Angular** and **Vue**, to enhance my skills and bring the best solutions to the project.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kami-note&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kami-note" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kami-note&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=html,css" alt="kami-note" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kami-note&show_icons=true&locale=en&theme=tokyonight" alt="kami-note" /></p>
 
